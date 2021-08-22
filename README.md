@@ -19,6 +19,6 @@ https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
 
 https://www.youtube.com/watch?v=e_f9p-_JWZw
 
-### Circuit Python Download
+### Circuit Python Download UF2
 
 https://circuitpython.org/board/raspberry_pi_pico/
