@@ -9,3 +9,8 @@ USB Rubber Ducky usando um Raspberry PI Pico
 - Coloque um código do rubber ducky in payload.dd
 - Tire e coloque o dispositivo e veja a magica
 - Para reinicializar o raspberry pi pico coloque o arquivo flash nuke uf2
+
+
+### Ducky Payloads
+
+https://github.com/hak5darren/USB-Rubber-Ducky/wiki/Payloads
