@@ -28,3 +28,7 @@ $ipt -A INPUT -p tcp --dport 80 -i enp0s3 -s 192.168.15.11/24 -j ACCEPT
 #SSH config: https://www.ssh.com/academy/ssh/sshd_config#root-login
 $ipt -A INPUT -p tcp --dport 22 -j LOG --log-level info --log-prefix "SSH:"
 $ipt -A INPUT -p tcp --dport 22 -i enp0s3 -s 192.168.15.11/24 -j ACCEPT
+
+#-----------------------------------------
+
+sudo nmap -PN -sS 192.168.15.8
